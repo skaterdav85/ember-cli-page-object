@@ -1,5 +1,17 @@
 # master
 
+# v1.4.2
+
+TBA
+
+# v1.4.1
+
+TBA
+
+# v1.4.0
+
+TBA
+
 # v1.3.0
 
 - [Feature] Add `property` property
